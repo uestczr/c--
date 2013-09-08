@@ -1,0 +1,12 @@
+// helloworld.cpp : Defines the entry point for the console application.
+//
+
+#include<iostream>
+#include<windows.h>
+using namespace std;
+
+int main()
+{
+	cout<<"hello world!"<<endl<<"I'm zhurui."<<endl;
+	return 0;
+}
